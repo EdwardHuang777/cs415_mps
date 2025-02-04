@@ -3657,3 +3657,25 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.04-23.25.40:517][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9393.016602
 [2025.02.04-23.25.41:517][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.04-23.25.41:517][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9393.689453, Update Interval: 312.099976
+[2025.02.04-23.28.46:141][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.02.04-23.28.48:993][778]LogSlate: Window 'Save Content' being destroyed
+[2025.02.04-23.28.49:000][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.04-23.28.49:024][778]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.02.04-23.28.49:024][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2025.02.04-23.28.49:033][778]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Player
+[2025.02.04-23.28.49:034][778]LogSavePackage: Moving '../../../../../../Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Saved/BP_Player3497BF01459C4E48967FCB89C6ADC065.tmp' to '../../../../../../Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2025.02.04-23.28.49:035][778]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([2] browsable assets)...
+[2025.02.04-23.28.49:035][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2025.02.04-23.28.49:041][778]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner
+[2025.02.04-23.28.49:041][778]LogSavePackage: Moving '../../../../../../Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Saved/BP_TunnelSpawnerE88EE00E4B4C7F906B1A86933FA56AE9.tmp' to '../../../../../../Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2025.02.04-23.28.49:050][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.811 ms (total: 705.651 ms)
+[2025.02.04-23.28.49:079][778]LogContentValidation: Display: Starting to validate 2 assets
+[2025.02.04-23.28.49:079][778]LogContentValidation: Enabled validators:
+[2025.02.04-23.28.49:079][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.04-23.28.49:079][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.04-23.28.49:079][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.04-23.28.49:079][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.04-23.28.49:079][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.04-23.28.49:079][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.04-23.28.49:080][778]AssetCheck: /Game/InfiniteMatrix/Blueprints/BP_Player Validating asset
+[2025.02.04-23.28.49:080][778]AssetCheck: /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner Validating asset
