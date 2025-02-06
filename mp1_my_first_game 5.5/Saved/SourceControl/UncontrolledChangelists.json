@@ -9,7 +9,29 @@
 				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
-				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/C_HealthColorCurve.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_Heal.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_HUD.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_Reactions.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_Reactions1.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_Reactions2.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_AddScore.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_Damage.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Materials/M_Brick_Clay_Old1.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/StarterContent/Materials/M_Brick_Cut_Stone1.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Materials/M_Ground_Grass.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_HealthBar1.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/WBP_HealthBar.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/UI/WBP_DeadPage.uasset",
+				"C:/Users/hzh90/OneDrive/Desktop/cs415_mps/mp1_my_first_game 5.5/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset"
 			]
 		}
 	]
